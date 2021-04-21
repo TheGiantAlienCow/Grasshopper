@@ -1,0 +1,9 @@
+function,area,ratio length:width,number of,Total area
+living room,13,2,1,13
+bedroom01,9,1.2,3,27
+washroom,4,1.5,2,8
+bedroom02,7,1,1,7
+Kitchen,8,2,3,24
+Courtyard,15,1,1,15
+Basement,17,1,1,17
+Storage,2,1,2,4
